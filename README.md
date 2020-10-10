@@ -1,2 +1,3 @@
 # <h1> FINAL DEVASTATION:
-  A multiplayer teams quake map created by Ethan Gregory.
+  A competitive multiplayer teams Quake map intended for six to eight players. 
+  Created by Ethan Gregory.
