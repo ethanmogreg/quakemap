@@ -1,2 +1,2 @@
-<h1> FINAL DEVASTATION
-  A multiplayer teams quake map created by Ethan Gregory
+<h1> FINAL DEVASTATION: <h1>
+  A multiplayer teams quake map created by Ethan Gregory.
